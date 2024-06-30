@@ -1,3 +1,0 @@
-# References
-
-* octocat 2 😈
